@@ -5,6 +5,8 @@
 - 👨‍💻 Programming studant
 - 🌱 I’m currently learning IT technician at Ulbra
 
+&nbsp;![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoBrumB&show_icons=true&theme=tokyonight)
+
 <br>
 
 &nbsp;Tech Stack
@@ -13,6 +15,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=orange)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBrumB)](https://github.com/LeonardoBrumB/github-readme-stats)
 
 <br>
 
