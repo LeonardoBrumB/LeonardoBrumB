@@ -3,7 +3,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=LeonardoBrumB&color=yellow" alt="profile views" /></p>
 
 - 👨‍💻 Programming studant
-- 🌱 I’m currently learning IT technician at Ulbra
+- 🌱 I'm currently studying IT technician at Ulbra
 
 &nbsp;![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoBrumB&show_icons=true&theme=tokyonight)
 
