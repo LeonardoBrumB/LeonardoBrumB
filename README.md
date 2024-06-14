@@ -11,10 +11,7 @@
 
 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=orange)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,react,ts)](https://skillicons.dev)
 
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBrumB)](https://github.com/LeonardoBrumB/github-readme-stats)
 
