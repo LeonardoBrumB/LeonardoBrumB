@@ -11,7 +11,7 @@
 
 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,react,ts, gml)](https://skillicons.dev)
 
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBrumB)](https://github.com/LeonardoBrumB/github-readme-stats)
 
